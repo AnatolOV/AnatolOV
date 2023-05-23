@@ -19,3 +19,8 @@ Junior FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - :zap: В свободное время занимаюсь разработкой pet-проектов, расширением знаний во front end  разработке.
 
 - :mailbox: мой телеграм: @AnatolAO
+
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
