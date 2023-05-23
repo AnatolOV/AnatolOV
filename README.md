@@ -15,9 +15,7 @@
 ### :man_technologist: About Me :
 Junior FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Россия.
 - :telescope: Прохожу обучение в Яндекс Практикум.
-
-- :seedling: Exploring Technical Content Writing.
-
+- 
 - :zap: В свободное время занимаюсь разработкой pet-проектов, расширением знаний во front end  разработке.
 
 - :mailbox: мой телеграм: @AnatolAO
