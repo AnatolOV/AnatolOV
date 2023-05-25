@@ -21,7 +21,7 @@ Junior FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### My contacts:
 - :mailbox: Email: Oleinikovav.ao@gmail.com
-- :mailbox: Telegram: @AnatolAO
+- ☎️: Telegram: @AnatolAO
 
 ---
 
