@@ -14,9 +14,9 @@
 
 ### :man_technologist: About Me :
 Junior FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Россия.
-- :telescope: Прохожу обучение в Яндекс Практикум.
+- :telescope: Прошел обучение в Яндекс Практикум. В настоящее время обучаюсь в Urban-university, направление Python-разработчик.
 
-- :zap: В свободное время занимаюсь разработкой pet-проектов, расширением знаний во front end  разработке.
+- :zap: В свободное время занимаюсь разработкой pet-проектов. Расширением знаний в разработке.
 
 
 ### My contacts:
